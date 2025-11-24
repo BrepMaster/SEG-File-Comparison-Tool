@@ -3,6 +3,9 @@
 **SEG File Comparison Tool** is a professional-grade file comparison utility specifically designed for analyzing and comparing SEG file labels. It provides comprehensive comparison capabilities with detailed error analysis and intelligent file categorization.  
 **SEG文件比较工具**是一款专业级的文件比较工具，专门用于分析和比较SEG文件标签。该工具提供全面的比较功能，包含详细的错误分析和智能文件分类。
 
+打包好的软件：SEG File Comparison Tool.exe
+链接: https://pan.baidu.com/s/18cG9HrGLdjp2_eoih1FYgQ?pwd=j8u7 提取码: j8u7
+
 ## Usage / 使用说明
 
 ### Basic Workflow / 基本工作流程
